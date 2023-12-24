@@ -6,9 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-![Vos enseignants légèrement modifiés](/images/mathetphycrop.png)
-
 <b>Louise, doctorante en Physique</b> :
 Louise est une vraie passionnée de l'enseignement et accumule plus de 8 ans d'enseignement privé, en mathématiques mais également en physique, chimie, et en humanités. Avec ApexMath©, elle souhaite faire bénéficier aux futurs étudiants d'un soutien scolaire telle qu'elle le voit : un tremplin, que ce soit vers l'amélioration ou l'excellence.
 - <i>Scolarité</i> : Baccalauréat Scientifique - Licence de Mathématiques - Master de Mathématiques (major en analyse numérique et mécanique mathématique) - Lauréate de la bourse de l'Agence Nationale de la Recherche pour le projet D2OX. <br>
@@ -16,7 +13,7 @@ Louise est une vraie passionnée de l'enseignement et accumule plus de 8 ans d'e
 
 [Page personnelle de Louise](https://camillecelaries.github.io)
 
-<br>
+![Vos enseignants légèrement modifiés](/images/mathetphycrop.png)
 
 <b>Marc, doctorant en Mathématiques</b> :
 Après avoir lui aussi enseigné en soutien scolaire pendant plus de 8 ans et enseignant actuellement à la Faculté des Sciences, Marc s'associe à Louise pour fonder ApexMath©, dans une volonté de rendre les mathématiques accessibles aux plus d'élèves possibles, dans une société où l'on juge de plus en plus par les notes et le dossier.
