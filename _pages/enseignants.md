@@ -13,6 +13,7 @@ Après avoir enseigné en soutien scolaire pendant plus de 8 ans et enseignant a
 - <i>Recherche</i> : Marc étudie la physique mathématique et la mécanique des fluides, ou comment appliquer les mathématiques à des problèmes concrets en physique. Il est notamment spécialisé en équations aux dérivées partielles, qui permettent de modéliser tous les processus dépendant du temps dans notre univers. <br>
 [Page personnelle](https://sachacardonna.github.io) 
 
+<br>
 
 <b>Louise, doctorante en Physique</b> :
 Louise est une vraie passionnée de l'enseignement et accumule elle aussi plus de 8 ans d'enseignement privé, en mathématiques mais également en physique, chimie, et en humanités. Avec ApexMath©, elle souhaite faire bénéficier aux futurs étudiants d'un soutien scolaire telle qu'elle le voit : un tremplin, que ce soit vers l'amélioration ou l'excellence. <br>
