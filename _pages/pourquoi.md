@@ -20,3 +20,5 @@ Les tuteurs traditionnels varient en spécialisation et expérience, avec une co
 Nous proposons une flexibilité maximale dans la planification des séances et un suivi personnalisé adapté aux changements et à la progression de l'élève. Les options traditionnelles peuvent offrir une certaine flexibilité mais sont souvent moins adaptables aux besoins individuels et aux horaires irréguliers.
 
 ApexMath© est donc idéal pour ceux qui cherchent une expérience éducative sur mesure et flexible avec un accent sur la compréhension profonde, tandis que les soutiens scolaires traditionnels peuvent convenir à ceux préférant une structure éprouvée et une couverture générale des matières.
+
+![stud](/images/students.png)
