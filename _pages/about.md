@@ -23,7 +23,7 @@ Vos Guides :
 ===
 
 <b>Marc, doctorant en Mathématiques</b> :
-Après avoir enseigné en soutien scolaire pendant plus de 8 ans et enseignant actuellement à la Faculté des Sciences, Marc s'associe à Louise pour fonder ApexMath©, dans une volonté de rendre les mathématiques accessibles aux plus d'élèves possibles, dans une société où l'on juge de plus en plus par l'excellence académique. <br>
+Après avoir enseigné en soutien scolaire pendant plus de 8 ans et enseignant actuellement à la Faculté des Sciences, Marc s'associe à Louise pour fonder ApexMath©, dans une volonté de rendre les mathématiques accessibles aux plus d'élèves possibles, dans une société où l'on juge de plus en plus par les notes et le dossier. <br>
 - <i>Scolarité</i> : Baccalauréat Scientifique - Bi-Licence Mathématiques et Physique - Master de Mathématiques (major de promo) - Lauréat du Concours Doctoral (1ère place).<br>
 - <i>Recherche</i> : Marc étudie la physique mathématique et la mécanique des fluides, ou comment appliquer les mathématiques à des problèmes concrets en physique. Il est notamment spécialisé en équations aux dérivées partielles, qui permettent de modéliser tous les processus dépendant du temps dans notre univers.
 
