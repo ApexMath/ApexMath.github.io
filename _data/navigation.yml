@@ -1,22 +1,15 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Notre Philosophie"
+    url: /philosophie/
+    
+  - title: "Nos Enseignants"
+    url: /enseignants/
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Pourquoi Choisir ApexMath© ?"
+    url: /pourquoi/
+
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+# - title: "Publications"
+#    url: /publications/
