@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bienvenue sur ApexMath©, votre Compagnon de Voyage vers l'Excellence"
+title: "Bienvenue sur ApexMath©"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
