@@ -26,15 +26,15 @@ Vos Guides :
 ===
 
 <b>Marc, doctorant en Mathématiques</b> :
-Après avoir enseigné en soutien scolaire pendant plus de 8 ans et enseignant actuellement à la Faculté des Sciences, Marc s'associe à Louise pour fonder ApexMath©, dans une volonté de rendre les mathématiques accessibles aux plus d'élèves possibles, dans une société où l'on juge de plus en plus par l'excellence académique.
-<i>Parcours</i> : Baccalauréat Scientifique - Bi-Licence Mathématiques et Physique - Master de Mathématiques (major de promo) - Lauréat du Concours Doctoral de l'école doctorale I2S (1ère place).
+Après avoir enseigné en soutien scolaire pendant plus de 8 ans et enseignant actuellement à la Faculté des Sciences, Marc s'associe à Louise pour fonder ApexMath©, dans une volonté de rendre les mathématiques accessibles aux plus d'élèves possibles, dans une société où l'on juge de plus en plus par l'excellence académique. <br>
+<i>Parcours</i> : Baccalauréat Scientifique - Bi-Licence Mathématiques et Physique - Master de Mathématiques (major de promo) - Lauréat du Concours Doctoral (1ère place).<br>
 <i>Recherche</i> : Marc étudie la physique mathématique et la mécanique des fluides, ou comment appliquer les mathématiques à des problèmes concrets en physique. Il est notamment spécialisé en équations aux dérivées partielles, qui permettent de modéliser tous les processus dépendant du temps dans notre univers.
 
 
 <b>Louise, doctorante en Physique</b> :
-Louise est une vraie passionnée de l'enseignement et accumule elle aussi plus de 8 ans d'enseignement privé, en mathématiques mais également en physique, chimie, et en humanités.
-<i>Parcours</i> : Baccalauréat Scientifique - Licence Mathématiques - Master de Mathématiques - Lauréate de la bourse ANR pour le projet D2OX.
-<i>Recherche</i> : Louise est spécialisée en Biophysique théorique, et utilise des méthodes probabilistes de haut niveau pour expliquer des processus du vivant, en étudiant notamment la respiration bacterienne.
+Louise est une vraie passionnée de l'enseignement et accumule elle aussi plus de 8 ans d'enseignement privé, en mathématiques mais également en physique, chimie, et en humanités. Avec ApexMath©, elle souhaite faire bénéficier aux futurs étudiants d'un soutien scolaire telle qu'elle le voit : un tremplin, que ce soit vers l'amélioration ou l'excellence. <br>
+<i>Parcours</i> : Baccalauréat Scientifique - Licence de Mathématiques - Master de Mathématiques (major en analyse numérique et mécanique du solide et des fluides) - Lauréate de la bourse de l'Agence Nationale de la Recherche pour le projet D2OX. <br>
+<i>Recherche</i> : Louise est spécialisée en Biophysique théorique, et utilise des méthodes probabilistes de haut niveau pour expliquer des processus du vivant, en étudiant notamment la respiration bacterienne. 
 
 
 L'Importance des Mathématiques :
