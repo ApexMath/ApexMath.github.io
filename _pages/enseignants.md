@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+image_path: /images/mathetphy.png
+
 
 <b>Louise, doctorante en Physique</b> :
 Louise est une vraie passionnée de l'enseignement et accumule plus de 8 ans d'enseignement privé, en mathématiques mais également en physique, chimie, et en humanités. Avec ApexMath©, elle souhaite faire bénéficier aux futurs étudiants d'un soutien scolaire telle qu'elle le voit : un tremplin, que ce soit vers l'amélioration ou l'excellence.
