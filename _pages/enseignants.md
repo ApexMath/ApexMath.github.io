@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-image_path: /images/mathetphy.png
+[Chez ApexMath©, aucune place n'est laissée au hasard](/images/mathetphy.png)
 
 
 <b>Louise, doctorante en Physique</b> :
