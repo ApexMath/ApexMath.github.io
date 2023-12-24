@@ -30,7 +30,7 @@ Après avoir enseigné en soutien scolaire pendant plus de 8 ans et enseignant a
 
 <b>Louise, doctorante en Physique</b> :
 Louise est une vraie passionnée de l'enseignement et accumule elle aussi plus de 8 ans d'enseignement privé, en mathématiques mais également en physique, chimie, et en humanités. Avec ApexMath©, elle souhaite faire bénéficier aux futurs étudiants d'un soutien scolaire telle qu'elle le voit : un tremplin, que ce soit vers l'amélioration ou l'excellence. <br>
-- <i>Scolarité</i> : Baccalauréat Scientifique - Licence de Mathématiques - Master de Mathématiques (major en analyse numérique et mécanique du solide et des fluides) - Lauréate de la bourse de l'Agence Nationale de la Recherche pour le projet D2OX. <br>
+- <i>Scolarité</i> : Baccalauréat Scientifique - Licence de Mathématiques - Master de Mathématiques (major en analyse numérique et mécanique mathématique) - Lauréate de la bourse de l'Agence Nationale de la Recherche pour le projet D2OX. <br>
 - <i>Recherche</i> : Louise est spécialisée en Biophysique théorique, et utilise des méthodes probabilistes de haut niveau pour expliquer des processus du vivant, en étudiant notamment la respiration bacterienne. 
 
 
