@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Bienvenue sur ApexMath© - Votre Compagnon de Voyage vers l'Excellence
+Bienvenue sur ApexMath©, votre Compagnon de Voyage vers l'Excellence
 =====
 
 ApexMath© n'est pas juste un soutien scolaire ; c'est un engagement envers l'excellence académique. Nous offrons une expérience éducative sur mesure qui fait écho aux besoins et ambitions de chaque étudiant. Que vous soyez un élève en quête d'amélioration, un parent soucieux d'offrir les meilleures opportunités à votre enfant, ou un étudiant de l'enseignement supérieur désireux de maîtriser les mathématiques, ApexMath© est votre guide.
@@ -17,7 +17,7 @@ Nos Services :
 ====
 
 - <b>Couverture Complète</b> : Du soutien en mathématiques pour les élèves de la sixième à la terminale, aux programmes personnalisés pour CPGE, BTS, DUT, et étudiants universitaires, nous avons une solution pour chaque besoin.
-- <b>Séances Personnalisées</b> : Nos séances hebdomadaires et stages intensifs sont conçus pour s'adapter à votre emploi du temps et intensifier votre apprentissage quand vous en avez le plus besoin.
+- <b>Séances Personnalisées</b> : Nos séances hebdomadaires et stages intensifs sont conçus pour s'adapter à votre emploi du temps et intensifier votre apprentissage quand vous en avez le plus besoin. Les cours peuvent être pris en présentiel mais aussi en distanciel.
 - <b>Accompagnement Proactif</b> : Nos tuteurs sont accessibles via leur numéro personnel, garantissant une aide continue et une réactivité à vos interrogations académiques.
 - <b>Tarification Adaptative</b> : Nous croyons que l'excellence en éducation devrait être accessible à tous. Parlons ensemble pour trouver une solution financière qui vous convient.
 
@@ -55,7 +55,23 @@ Chez ApexMath©, nous croyons que chaque élève possède un potentiel immense. 
 - <b> Pour les élèves excellents</b> : Nous élevons les standards, challengeons leur esprit, et encourageons à la poursuite de l'excellence.
 - <b> Pour les élèves et leurs parents</b> : Nous proposons des analyse détaillées du profil de l'élève, et pouvons également aider à l'orientation de vos enfants en fonction de ses capacités et des aspirations.
 
-Rejoignez la Communauté Apex Math
+Pourquoi choisir ApexMath© ?
+===
+Lorsqu'il s'agit de choisir un soutien scolaire, il est essentiel de comprendre les différences clés entre une option personnalisée comme ApexMath© et des solutions plus traditionnelles telles qu'Acadomia ou des cours particuliers.
+
+<b>Personnalisation vs. Standardisation</b> :
+ApexMath© offre une personnalisation inégalée, adaptant chaque parcours à l'élève individuel, avec des tuteurs spécialisés et passionnés par leur sujet. Cela permet une approche plus flexible et approfondie, idéale pour les élèves qui cherchent à comprendre les matières en profondeur ou à explorer des sujets avancés. Les services traditionnels tendent à suivre des programmes plus standardisés, efficaces pour une aide générale mais parfois moins adaptés aux besoins uniques de chaque élève.
+
+<b>Expertise des Tuteurs</b> :
+ApexMath© se distingue par ses tuteurs jeunes et dynamiques, impliqués actuellement dans la recherche et l'enseignement universitaire, et totalement passionnés pour l'enseignement. Chez nous, le contact est facile, et le tutoiement est de rigueur.
+Les tuteurs traditionnels varient en spécialisation et expérience, avec une couverture large mais offrant parfois moins de profondeur dans des domaines spécialisés. Pour une aide aux devoirs cela convient largement, mais pour réellement s'approprier une notion, cela peut parfois être insuffisant.
+
+<b>Suivi et Flexibilité</b> :
+Nous proposons une flexibilité maximale dans la planification des séances et un suivi personnalisé adapté aux changements et à la progression de l'élève. Les options traditionnelles peuvent offrir une certaine flexibilité mais sont souvent moins adaptables aux besoins individuels et aux horaires irréguliers.
+
+ApexMath© est donc idéal pour ceux qui cherchent une expérience éducative sur mesure et flexible avec un accent sur la compréhension profonde, tandis que les soutiens scolaires traditionnels peuvent convenir à ceux préférant une structure éprouvée et une couverture générale des matières.
+
+Rejoignez la Communauté ApexMath©
 ===
 
 Engagez-vous dans un parcours d'apprentissage qui transforme, inspire, et élève. Avec Apex Math, atteignez les sommets de votre potentiel académique et au-delà. Contactez-nous aujourd'hui pour commencer votre ascension.
