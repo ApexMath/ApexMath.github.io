@@ -8,6 +8,8 @@ redirect_from:
 ---
 <i> PROMOTION DU MOMENT </i> : la première heure est offerte !<br>
 
+![Sourire](/images/sourire.png)
+
 <b>Collège</b> (de la 6ème à la 3ème)
 - Séance hebdomadaire : 35€/h
 - Stage Intensif (8h) : 300€
