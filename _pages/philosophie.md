@@ -12,6 +12,7 @@ Chez ApexMath©, nous croyons que chaque élève possède un potentiel immense. 
 - <b> Pour les élèves excellents</b> : Nous élevons les standards, challengeons leur esprit, et encourageons à la poursuite de l'excellence.
 - <b> Pour les élèves et leurs parents</b> : Nous proposons des analyse détaillées du profil de l'élève, et pouvons également aider à l'orientation de vos enfants en fonction de ses capacités et des aspirations.
 
+![teacher](/images/teachers.png)
 
 L'Importance des Mathématiques :
 ===
