@@ -7,6 +7,9 @@ main:
   - title: "Nos Enseignants"
     url: /enseignants/
 
+  - title: "Nos Tarifs"
+    url: /enseignants/
+
   - title: "Pourquoi Choisir ApexMath© ?"
     url: /pourquoi/
 
