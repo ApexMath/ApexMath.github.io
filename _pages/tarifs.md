@@ -29,5 +29,5 @@ redirect_from:
 - Initiation à l'informatique et la programmation : 50€/h
 - Orientation : 30€/h
 
-Des arrangements peuvent être faits sur une base individuelle pour s'adapter à des situations financières variées.
+Des arrangements peuvent être faits sur une base individuelle pour s'adapter à des situations financières variées. <br>
 Tous les prix sont TTC.
