@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Bienvenue sur ApexMath©, votre Compagnon de Voyage vers l'Excellence"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Bienvenue sur ApexMath©, votre Compagnon de Voyage vers l'Excellence
-=====
 
 ApexMath© n'est pas juste un soutien scolaire ; c'est un engagement envers l'excellence académique. Nous offrons une expérience éducative sur mesure qui fait écho aux besoins et ambitions de chaque étudiant. Que vous soyez un élève en quête d'amélioration, un parent soucieux d'offrir les meilleures opportunités à votre enfant, ou un étudiant de l'enseignement supérieur désireux de maîtriser les mathématiques, ApexMath© est votre guide.
 
