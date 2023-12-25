@@ -13,10 +13,10 @@ ApexMath© n'est pas juste un soutien scolaire ; c'est un engagement envers l'ex
 Nos Services
 ====
 
-- <b>Couverture Complète</b> : Du soutien en mathématiques pour les élèves de la sixième à la terminale, aux programmes personnalisés pour CPGE, BTS, DUT, et étudiants universitaires, nous avons une solution pour chaque besoin.
-- <b>Séances Personnalisées</b> : Nos séances hebdomadaires et stages intensifs sont conçus pour s'adapter à votre emploi du temps et intensifier votre apprentissage quand vous en avez le plus besoin. Les cours peuvent être pris en présentiel mais aussi en distanciel.
-- <b>Accompagnement Proactif</b> : Nos tuteurs sont accessibles via leur numéro personnel, garantissant une aide continue et une réactivité à vos interrogations académiques.
-- <b>Tarification Adaptative</b> : Nous croyons que l'excellence en éducation devrait être accessible à tous. Parlons ensemble pour trouver une solution financière qui vous convient.
+- <b>Couverture complète</b> : Du soutien en mathématiques pour les élèves de la sixième à la terminale, aux programmes personnalisés pour CPGE, BTS, DUT, et étudiants universitaires, nous avons une solution pour chaque besoin.
+- <b>Séances personnalisées</b> : Nos séances hebdomadaires et stages intensifs sont conçus pour s'adapter à votre emploi du temps et intensifier votre apprentissage quand vous en avez le plus besoin. Les cours peuvent être pris en présentiel mais aussi en distanciel.
+- <b>Accompagnement proactif</b> : Nos tuteurs sont accessibles via leur numéro personnel, garantissant une aide continue et une réactivité à vos interrogations académiques.
+- <b>Tarification adaptative</b> : Nous croyons que l'excellence en éducation devrait être accessible à tous. Parlons ensemble pour trouver une solution financière qui vous convient.
 
 Rejoignez la Communauté ApexMath©
 ===
