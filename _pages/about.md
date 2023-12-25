@@ -21,5 +21,5 @@ Nos Services
 Rejoignez la Communauté ApexMath©
 ===
 
-Engagez-vous dans un parcours d'apprentissage qui transforme, inspire, et élève. Avec Apex Math, atteignez les sommets de votre potentiel académique et au-delà. Contactez-nous aujourd'hui pour commencer votre ascension.
+Engagez-vous dans un parcours d'apprentissage qui transforme, inspire, et élève. Avec ApexMath©, atteignez les sommets de votre potentiel académique et au-delà. Contactez-nous aujourd'hui pour commencer votre ascension.
 
