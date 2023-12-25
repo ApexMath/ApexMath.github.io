@@ -10,7 +10,7 @@ redirect_from:
 
 ApexMath© n'est pas juste un soutien scolaire ; c'est un engagement envers l'excellence académique. Nous offrons une expérience éducative sur mesure qui fait écho aux besoins et ambitions de chaque étudiant. Que vous soyez un élève en quête d'amélioration, un parent soucieux d'offrir les meilleures opportunités à votre enfant, ou un étudiant de l'enseignement supérieur désireux de maîtriser les mathématiques, ApexMath© est votre guide.
 
-Nos Services :
+Nos Services
 ====
 
 - <b>Couverture Complète</b> : Du soutien en mathématiques pour les élèves de la sixième à la terminale, aux programmes personnalisés pour CPGE, BTS, DUT, et étudiants universitaires, nous avons une solution pour chaque besoin.
