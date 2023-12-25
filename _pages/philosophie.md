@@ -14,7 +14,7 @@ Chez ApexMath©, nous croyons que chaque élève possède un potentiel immense. 
 
 ![teacher](/images/teachers.png)
 
-L'Importance des Mathématiques
+L'importance des mathématiques
 ===
 
 Les mathématiques sont bien plus qu'une matière académique ; elles sont une langue universelle et un mode de pensée. La maîtrise des mathématiques enrichit l'esprit, développe la rigueur et la capacité analytique, et est essentielle dans une multitude de domaines, de la physique à la finance, de l'ingénierie à l'économie. Chez ApexMath©, nous ne nous contentons pas d'enseigner les mathématiques ; nous inspirons une passion pour la précision, le raisonnement logique, et la résolution de problèmes, compétences indispensables dans les études et la vie professionnelle.
